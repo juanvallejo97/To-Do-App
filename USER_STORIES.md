@@ -156,7 +156,9 @@ Low
 
 ## Notes
 
-- Story points estimated using Fibonacci scale (1, 2, 3, 5, 8, 13)
+- Story points estimated using Fibonacci scale (1, 2, 3, 5, 8, 13, 21, ...)
+  - Scale used: 1, 2, 3, 5, 8 for this project (all stories fit within this range)
+  - Larger values (13, 21, 34, etc.) available for more complex stories if needed
 - Priorities: High (critical functionality), Medium (important features), Low (nice-to-have enhancements)
 - All user stories follow the format: "As a [user type], I want to [action], so that [benefit]"
 

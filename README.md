@@ -36,7 +36,12 @@ This project follows agile sprint-based development methodology with comprehensi
 
 1. Clone the repository:
    ```bash
+   # Using HTTPS
    git clone https://github.com/juanvallejo97/To-Do-App.git
+   
+   # Or using SSH
+   git clone git@github.com:juanvallejo97/To-Do-App.git
+   
    cd To-Do-App
    ```
 

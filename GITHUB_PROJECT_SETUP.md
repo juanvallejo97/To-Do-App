@@ -583,6 +583,12 @@ After setup, your project board will be accessible at:
 https://github.com/juanvallejo97/To-Do-App/projects/[PROJECT_NUMBER]
 ```
 
+**To find your project number:**
+1. Go to your repository's Projects tab
+2. Click on your project board
+3. Look at the URL in your browser's address bar
+4. The number after `/projects/` is your project number (e.g., if URL is `.../projects/3`, your number is 3)
+
 Replace `[PROJECT_NUMBER]` with the actual number assigned by GitHub.
 
 ---

@@ -51,7 +51,9 @@
 **Technical Notes**:
 - API Endpoint: https://zenquotes.io/api/random
 - No API key required for basic usage
-- Rate limit: Check API documentation
+- Rate limit: Free tier allows reasonable usage; implement caching to minimize requests
+  - Recommended: Cache quotes locally and refresh periodically
+  - Fallback: Store 10-20 quotes locally for offline use
 - Response format: JSON array with quote and author
 
 ---
